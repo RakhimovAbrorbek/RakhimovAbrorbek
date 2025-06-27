@@ -1,7 +1,7 @@
 <h1 align="center">Welcome, I'm Abrorbek Rakhimov</h1>
 <h3 align="center">A devoted and passionate programmer with ambitions to thrive as a software engineer.</h3>
 
-- 🌱 I’m currently mastering **TypeScript and Node JS**
+- 🌱 I’m currently  learning and mastering **React, TypeScript and Node JS**
 
 - 💬 Ask me about **JavaScript Node JS TypeScript**
 
